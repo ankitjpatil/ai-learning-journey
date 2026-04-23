@@ -46,3 +46,33 @@ This is a critical concern for any production AI system deployed for real client
 A token is the unit of text. A parameter is a number inside the model.
 The context window is working memory. RLHF is what makes the model behave well.
 Security is not an afterthought — it is a core architectural concern from day one.
+
+
+
+
+
+
+
+
+---
+
+## Progress Tracker
+
+### Phase 1 — Foundation
+
+#### Week 1–2
+- [x] GitHub profile live — ankitjpatil
+- [x] ai-learning-journey repo created
+- [x] Karpathy LLM video watched
+- [x] Notes written and corrected
+- [x] Virtual environment set up
+- [x] First AI packages installed (openai, python-dotenv)
+- [x] API key secured in .env
+- [x] .gitignore protecting sensitive files
+- [x] First LLM API call working — GPT-4o responded
+- [x] first_llm_call.py pushed to GitHub
+- [ ] HuggingFace NLP course chapters 1–4
+- [ ] AWS Bedrock first call
+- [ ] AWS Skill Builder started
+- [ ] LangChain tutorials completed
+- [ ] PDF Q&A exit project live
