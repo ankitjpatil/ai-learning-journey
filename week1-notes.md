@@ -71,7 +71,8 @@ Security is not an afterthought — it is a core architectural concern from day 
 - [x] .gitignore protecting sensitive files
 - [x] First LLM API call working — GPT-4o responded
 - [x] first_llm_call.py pushed to GitHub
-- [ ] HuggingFace NLP course chapters 1–4
+- [x] HuggingFace transformers installed and 5 exercises completed
+- [x] HuggingFace LLM course chapters 1–4 (in progress — chapter 1 started)
 - [ ] AWS Bedrock first call
 - [ ] AWS Skill Builder started
 - [ ] LangChain tutorials completed
